@@ -12,5 +12,6 @@
 🌐 nick.papciak.dev
 🍊 building datafruit.dev
 🎓 machine learning @ georgia tech 
-🌀 nondeterministically making questionable choices in polynomial time
+🌀 nondeterministically making questionable 
+   choices in polynomial time
 ```
