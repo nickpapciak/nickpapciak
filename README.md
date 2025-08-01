@@ -11,6 +11,6 @@
 📍 san francisco, ca
 🌐 nick.papciak.dev
 🍊 building datafruit.dev
-🎓 machine learning @ georgia tech 
+🐝 georgia tech
 🌀 nondeterministically making questionable choices in polynomial time
 ```
