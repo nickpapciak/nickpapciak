@@ -2,7 +2,7 @@
 ```         
 📍 san francisco, ca
 🌐 nick.papciak.dev
-🍊 building datafruit.dev
+🍊 building datafruit.ai
 🐝 georgia tech alum
 🌀 nondeterministically making questionable choices in polynomial time
 ```
